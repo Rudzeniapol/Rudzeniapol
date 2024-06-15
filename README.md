@@ -57,7 +57,7 @@
   ###
 
   ## 📈 LeetCode Statistics
-    <div align="center">
+  <div align="center">
     <a href="https://leetcode.com/u/WinDIY22/">
       <img src="https://leetcode-stats-six.vercel.app/api?username=WinDIY22&theme=dark" alt="WinDIY22's LeetCode stats">
     </a>
@@ -65,8 +65,8 @@
 
   ###
 
-    ## 👩‍💻CodeWars Progress
-    <div align="center">
+  ## 👩‍💻CodeWars Progress
+  <div align="center">
     <a href="https://www.codewars.com/users/WinDIY22">
       <img src="https://www.codewars.com/users/WinDIY22/badges/large" alt="codewars badge">
     </a>
