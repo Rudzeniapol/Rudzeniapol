@@ -58,7 +58,7 @@
 
   ## 📈 LeetCode Statistics
   <div align="center">
-    <img src="https://leetcode-stats-api.herokuapp.com/DaniilRudzenia" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/DaniilRudzenia?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
   </div>
   
   ###
