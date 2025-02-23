@@ -57,8 +57,9 @@
   ###
 
   ## 📈 LeetCode Statistics
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/DaniilRudzenia)
-
+  <div align="center">
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/DaniilRudzenia)
+  </div>
   ###
 
   ## 👩‍💻CodeWars Progress
