@@ -1,4 +1,4 @@
-  <h1 align="center">Hi, Names Daniil👋!</h1>
+<h1 align="center">Hi, Names Daniil👋!</h1>
 
   ###
 
@@ -57,7 +57,10 @@
   ###
 
   ## 📈 LeetCode Statistics
-  ![LeetCode Stats](https://leetcode-badge-generator.vercel.app/api?username=DaniilRudzenia&type=rating)
+  <div align="center">
+    <img src="https://leetcode-stats-api.herokuapp.com/DaniilRudzenia" alt="LeetCode Stats" />
+  </div>
+  
   ###
 
   ## 👩‍💻CodeWars Progress
