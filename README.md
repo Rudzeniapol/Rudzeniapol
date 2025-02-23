@@ -57,7 +57,7 @@
   ###
 
   ## 📈 LeetCode Statistics
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/WinDIY22)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/DaniilRudzenia)
 
   ###
 
