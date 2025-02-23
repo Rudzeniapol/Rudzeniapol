@@ -57,11 +57,7 @@
   ###
 
   ## 📈 LeetCode Statistics
-  <div align="center">
-    <a href="https://leetcode.com/u/WinDIY22/">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=WinDIY22&theme=dark" alt="WinDIY22's LeetCode stats">
-    </a>
-  </div>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/WinDIY22)
 
   ###
 
