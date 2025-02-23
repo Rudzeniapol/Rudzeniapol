@@ -57,7 +57,7 @@
   ###
 
   ## 📈 LeetCode Statistics
-  [![Daniils's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DaniilRudzenia&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/DaniilRudzenia)
   ###
 
   ## 👩‍💻CodeWars Progress
