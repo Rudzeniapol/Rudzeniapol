@@ -57,7 +57,7 @@
   ###
 
   ## 📈 LeetCode Statistics
-  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/DaniilRudzenia)
+  ![LeetCode Stats](https://leetcode-badge-generator.vercel.app/api?username=DaniilRudzenia&type=rating)
   ###
 
   ## 👩‍💻CodeWars Progress
