@@ -3,7 +3,7 @@
   ###
 
   <div align="center">
-    <a href="https://t.me/Daniil_Rudenya" target="_blank">
+    <a href="https://t.me/DaniilRudzenia" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-008FC7" height="25" alt="telegram logo"  />
     </a>
     <a href="https://www.linkedin.com/in/daniil-rudzenia-92446a29b/" target="_blank">
