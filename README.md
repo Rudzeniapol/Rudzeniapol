@@ -17,5 +17,3 @@ I'm currently studying in BSUIR<br>I'm a passionate backend developer from Belar
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rudzeniapol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
