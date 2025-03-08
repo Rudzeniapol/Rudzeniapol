@@ -1,4 +1,4 @@
-# Hello World! I'm Daniil, 19 year old Backend developer
+# Hello World! I'm Daniil, .NET Backend developer
 
 ---
 
