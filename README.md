@@ -1,7 +1,5 @@
 # Hello World! I'm Daniil, .NET Backend developer
 
----
-
 # 💫 About Me:
 
 #### I'm currently studying in BSUIR. I'm a passionate backend developer from Belarus. I'm self-disciplined and trying to do my best. My dream is to find a good job at big tech company, and I also want to upgrade to a fullstack developer position someday.
